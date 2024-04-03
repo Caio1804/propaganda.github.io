@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#text1{
+    position: absolute;
+    font-size: 80px;
+    left: 850px;
+    font-family: "Dancing Script", cursive;
+    color: orangered;
+}
+#text2{
+    position: absolute;
+    font-size: 40px;
+    left: 850px;
+    top: 130px;
+    font-family: "Dancing Script", cursive;
+    color: blueviolet;
+
+}
+#text3{
+    position: absolute;
+    font-size: 40px;
+    left: 850px;
+    top: 250px;
+    font-family: "Dancing Script", cursive;
+    color: blue;
+}
+#text4{
+    position: absolute;
+    font-size: 50px;
+    left: 1100px;
+    top: 250px;
+    font-family: "Dancing Script", cursive;
+}
+#text5{
+    position: absolute;
+    font-size: 40px;
+    left: 850px;
+    top: 330px;
+    font-family: "Dancing Script", cursive;
+    color:crimson;
+}
+#text6{
+    position: absolute;
+    font-size: 40px;
+    left: 850px;
+    top: 400px;
+    font-family: "Dancing Script", cursive;
+    color: deeppink;
+}
+#text7{
+    position: absolute;
+    font-size: 60px;
+    left: 1100px;
+    top: 500px;
+    font-family: "Dancing Script", cursive;
+    
+}
